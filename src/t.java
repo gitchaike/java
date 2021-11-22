@@ -12,7 +12,7 @@ public class t {
     public void change(String str, char[] ch) {
         str = "java";
         ch[0] = 'h';
-
+        str = "22";
     }
 
     public static void main(String[] args) {
