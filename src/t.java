@@ -12,6 +12,7 @@ public class t {
     public void change(String str, char[] ch) {
         str = "java";
         ch[0] = 'h';
+
     }
 
     public static void main(String[] args) {
